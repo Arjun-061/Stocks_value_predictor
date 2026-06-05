@@ -93,7 +93,7 @@ pip install -r requirements.txt
 
 ## Prediction Result
 
-![Prediction Result](screenshot.png)
+![Prediction Result](Screenshot.png)
 ---
 
 ## 📊 Machine Learning Workflow
