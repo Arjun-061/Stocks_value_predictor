@@ -90,10 +90,10 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-### Prediction Result
+
+## Prediction Result
 
 ![Prediction Result](screenshots/prediction.png)
-
 ---
 
 ## 📊 Machine Learning Workflow
